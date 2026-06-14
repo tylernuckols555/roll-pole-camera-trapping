@@ -4,15 +4,13 @@ An interactive, scroll-based lesson on camera-trap field methods, built for Scho
 
 ## View it
 
-Once GitHub Pages is enabled for this repository:
+Live (GitHub Pages):
 
-- **https://USERNAME.github.io/REPO/**
+- **https://tylernuckols555.github.io/roll-pole-camera-trapping/**
 
-Instant render without enabling Pages (self-contained single file):
+Instant-render mirror (self-contained single file):
 
-- **https://raw.githack.com/USERNAME/REPO/main/index.html**
-
-Replace `USERNAME` and `REPO` with your GitHub handle and the repository name.
+- **https://raw.githack.com/tylernuckols555/roll-pole-camera-trapping/main/index.html**
 
 ## What it is
 
